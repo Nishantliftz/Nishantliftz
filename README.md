@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **nodeJs**
 
-- 👯 I’m looking to collaborate on **Current nothing**
-
 - 🤝 I’m looking for help with **react**
 
 - 💬 Ask me about **JavaScript**
